@@ -1,16 +1,20 @@
 # PremierLeagueChat
 
-<b>Project Overview:</b>
+<h2>What is PremierLeagueChar?</h2>
 <p>
-PremierLeagueChat is a web application developed using Python, HTML/CSS and the Django framework. It serves as a virtual hub where individuals can engage in discussions pertaining to Pemier Lague football, fostering an interactive online chat room experience. By enabling users to log in, create various topics and rooms, and connect with other football enthusiasts, this platform facilitates real-time exchanges. Moreover, users gain access to live feeds from other participants across different topics and rooms, enhancing the sense of community within the application. Additionally, users can personalize their usernames and bios, adding a distinct touch to their online profiles. Moreover, the Django REST framework is used to facilitates the development of a web API that enables accessibility.
-  
+PremierLeagueChat is an online social media platform wherein avid fans of premier football take part in discussions regarding the biggest news within the world of football. This platform lets users to register and login into thematic chat rooms tailored to their individual interests. Users can also customize profile picture, bios, and username and create new topics and chat rooms to invite other football fans to talk about the lastest news. Additionally, a live feed showcasing the most recent conversations within chat rooms is  featured on the application's homepage, allowing users the opportunity to see and join into the conversation. 
 </p>
 
-![](static/images/premierleaguesite.png)
+ ![](static/images/premierleaguesite.png)
+
+<h2>Techincal Overview:</h2>
+<p>
+PremierLeagueChat is a web application developed using Python, HTML/CSS, and the Django framework. By using HTML/CSS, users interact with clean and easy navigation throughout the application. Using the MVT (Model-View-Template) pattern with Python and SQLite, backend logic and database management are handled efficiently. Moreover, the Django REST framework is used to facilitate the development of a web API that enables third party accessibility.
+</p>
 
 </p>
 
-<b>How to Run on local computer:</b>
+<h2>How to Run on local computer:</h2>
 <p>
   -Clone this repository.
 </p>
