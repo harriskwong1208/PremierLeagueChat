@@ -1,6 +1,6 @@
 # PremierLeagueChat
 
-<h2>What is PremierLeagueChar?</h2>
+<h2>What is PremierLeagueChat?</h2>
 <p>
 PremierLeagueChat is an online social media platform wherein avid fans of premier football take part in discussions regarding the biggest news within the world of football. This platform lets users to register and login into thematic chat rooms tailored to their individual interests. Users can also customize profile picture, bios, and username and create new topics and chat rooms to invite other football fans to talk about the lastest news. Additionally, a live feed showcasing the most recent conversations within chat rooms is  featured on the application's homepage, allowing users the opportunity to see and join into the conversation. 
 </p>
