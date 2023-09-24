@@ -20,4 +20,4 @@ PremierLeagueChat is a web application developed using Python, HTML/CSS, and the
   
 
 
-![](static/images/url.png)
+
